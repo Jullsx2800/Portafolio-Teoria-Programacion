@@ -33,13 +33,19 @@ Teoría de la Programación
 
 [📚ACTIVIDADES UNIDAD 2🛠️](tareasEntregadasUnidad2.md)
 
-
-
 ### III. 🛠️ Unidad 3: 
+
+[📁CONTENIDOS UNIDAD 33️⃣](unidad3.md)
+
+[📚ACTIVIDADES UNIDAD 3🛠️](tareasEntregadasUnidad3.md)
 
 ---
 
 ### 🌟 Conclusiones
+
+Durante la materia de Teoria de la Programacion se han enfatizado muchos temas importantes para inicializar en el mundo de la programacion, desde soluciones lógicas, su base como lo son pseudocódigo, digramas de flujo y algoritmos lo cual me ha permitido aprender sobre el control y orden el cual deben seguir los programas con la ayuda de las estructuras condicionales y repetitivas, y demas cosas.
+
+Por otro lado, tambien se integraron conocimientos de varias herramientas utiles en el mundo de la programacion asi como recordatorios y buenas practicas profesionales los cuales nos ayudaran a sobresalir en el ambito laboral una vez culminada nuestra carrera.
 
 ### 📖 Referencias
 
@@ -56,5 +62,10 @@ https://ccia.ugr.es/~jfv/ed1/c/cdrom/cap4/cap44.htm
 >
 [6]   “do-while (Instrucción) (C) | Microsoft Learn”. Consultado: el 6 de diciembre de 2025. [En línea]. Disponible en: https://learn.microsoft.com/es-es/cpp/c-language/do-while- statement-c?view=msvc-170
 
+[7] “Pasar por referencia - Documentación de IBM”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.ibm.com/docs/es/i/7.5.0?topic=calls-pass-by-reference
+
+[8] “Multidimensional Arrays in C - 2D and 3D Arrays - GeeksforGeeks”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.geeksforgeeks.org/c/multidimensional-arrays-in-c/
+
+
 ### 🤖 Uso de IA Generativa (Reflexión)
-Para llevar a cabo estas actividades se uso la IA (Gemini) la cual se uso a forma de tutor para ayudarme a mejorar la estetica y comandos para diferentes funciones en Markdown
+Para llevar a cabo estas actividades se uso la IA (Gemini) la cual se uso a forma de tutor para ayudarme a mejorar la estetica y comandos para diferentes funciones en Markdown, asi como para mejorar la redaccion de los textos y la implementacion de estructuras desconocidas y a formar ideas claras y precisas.
