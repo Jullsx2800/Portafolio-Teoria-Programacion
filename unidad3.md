@@ -238,12 +238,12 @@ Los aprendizajes de esta unidad fueron verdaderamente utiles ya que nos ayudan a
 
 ---
 
-<p align="right">
-  <a href="index.md">Volver a la página principal</a>
-</p>
-
----
-
 ## 📎 Anexos 📚 ## 
 
 📌 [Ejercicios Unidad 3](https://drive.google.com/drive/folders/1qMWMG3ggJEW1uPXbbFtdflxKgM89s9MG?usp=sharing)
+
+---
+
+<p align="right">
+  <a href="index.md">Volver a la página principal</a>
+</p>
