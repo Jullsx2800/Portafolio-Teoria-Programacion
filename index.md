@@ -47,6 +47,8 @@ Durante la materia de Teoria de la Programacion se han enfatizado muchos temas i
 
 Por otro lado, tambien se integraron conocimientos de varias herramientas utiles en el mundo de la programacion asi como recordatorios y buenas practicas profesionales los cuales nos ayudaran a sobresalir en el ambito laboral una vez culminada nuestra carrera.
 
+---
+
 ### 📖 Referencias
 
 [1] 	D. d. l. l. española, «Definicion: Algoritmo,» [En línea]. Available: https://dle.rae.es/algoritmo?m=form. [Último acceso: 25 octubre 2025].
@@ -66,6 +68,7 @@ https://ccia.ugr.es/~jfv/ed1/c/cdrom/cap4/cap44.htm
 
 [8] “Multidimensional Arrays in C - 2D and 3D Arrays - GeeksforGeeks”. Consultado: el 26 de enero de 2026. [En línea]. Disponible en: https://www.geeksforgeeks.org/c/multidimensional-arrays-in-c/
 
+---
 
 ### 🤖 Uso de IA Generativa (Reflexión)
 Para llevar a cabo estas actividades se uso la IA (Gemini) la cual se uso a forma de tutor para ayudarme a mejorar la estetica y comandos para diferentes funciones en Markdown, asi como para mejorar la redaccion de los textos y la implementacion de estructuras desconocidas y a formar ideas claras y precisas.
